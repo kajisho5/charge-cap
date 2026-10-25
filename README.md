@@ -1,2 +1,15 @@
-# charge-cap
-Set a battery charge limit percentage on Mac.
+# charge-cap（仮名）
+
+**充電上限の指定**
+
+## 課題（Mac標準の不便）
+バッテリー劣化対策の上限%を細かく指定できない。
+
+## 計画している機能
+- 上限%の指定（80%など）
+- 上限到達時の通知
+- ※対応機種・方式を検証中
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
